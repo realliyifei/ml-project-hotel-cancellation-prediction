@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="\Assets\FS_GZ.jpeg"/>
-</p>
-
-
+![FS_GZ](\Assets\FS_GZ.jpeg)
 
 # ML Project: Hotel Cancellation Prediction
 
@@ -14,19 +10,19 @@ UPenn CIS520 Machine Learning class project: utilize different machine learning 
 
 Binary classification:
 
-*   Predict - IsCanceled or not:  $$y=\{0,1\}\in \R^2$$ 
-*   Observation - processed feature set: $$X\in \R^{194}$$.
+*   Predict: `IsCancelled` or not:  y={0,1} with dim=2
+*   Observations: processed feature set: X with dim=194.
 
 ## Models
 
 *   Deep Factorization-Machine (half-done)
 *   Soft-Voting Ensemble Estimator
-*   Neural Network (vanlla and tuned)
-*   Random Forest (vanlla and tuned)
+*   Neural Network (vanilla and tuned)
+*   Random Forest (vanilla and tuned)
 *   Decision Tree
 *   XGBoost
 *   AdaBoost
 *   Extra Trees
-*   SVM (vanlla and tuned)
+*   SVM (vanilla and tuned)
 *   Logistic Regression (baseline)
 
