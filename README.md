@@ -9,8 +9,8 @@ UPenn CIS520 Machine Learning class project: utilize different machine learning 
 ## Links
 
 * [PDF: Project Report](/CIS520_Project_Report.pdf)
-* [Notebooks: Dataset Cleaning and Visualization](/Data_Clearning_and_Visualization.ipynb)
-* [Notebooks: Basic Models Experimenet](/Basic_Models_Experimenet.ipynb)
+* [Notebooks: Dataset Cleaning and Visualization](/Data_Cleaning_and_Visualization.ipynb)
+* [Notebooks: Basic Models Experiment](/Basic_Models_Experiment.ipynb)
 * [Notebooks: Advanced Models Exploration](/Advanced_Models_Exploration.ipynb)
 * [Dataset: Raw](/Dataset/hotel_bookings.csv) [1]
 * [Dataset: Processed](/Dataset/hotel_bookings_processed.csv)
@@ -20,7 +20,7 @@ UPenn CIS520 Machine Learning class project: utilize different machine learning 
 Binary classification:
 
 *   Predict: `IsCancelled` or not:  y={0,1} with dim=2
-*   Observations: processed feature set: X with dim=194.
+*   Observations: processed feature set: X with dim=194
 
 ## Models
 
@@ -41,5 +41,5 @@ Binary classification:
 
 ## Credits
 
-* Source of the background picture: Four Seasons Hotel at Guangzhou
+* Source of the background picture: Four Seasons Hotel in Guangzhou
 
