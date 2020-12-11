@@ -1,2 +1,8 @@
-# ML-Project-Hotel-Cancellation-Prediction
-ML class project: utilize different machine learning approaches to predict the hotel booking's cancellation
+# ML Project: Hotel Cancellation Prediction
+
+UPenn CIS520 Machine Learning class project: utilize different machine learning approaches to predict the hotel booking's cancellation.
+
+Authors: Yifei Li, Zhijian Yang
+
+
+
