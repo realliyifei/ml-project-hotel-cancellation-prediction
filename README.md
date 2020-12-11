@@ -1,10 +1,19 @@
-![FS_GZ](\Assets\FS_GZ.jpeg)
+![FS_GZ](/Assets/FS_GZ.jpeg)
 
 # ML Project: Hotel Cancellation Prediction
 
-UPenn CIS520 Machine Learning class project: utilize different machine learning approaches to predict the hotel booking's cancellation. See the [report PDF](/CIS520_Project_Report.pdf).
+UPenn CIS520 Machine Learning class project: utilize different machine learning approaches to predict the hotel booking's cancellation. 
 
 **Authors**: Yifei Li, Zhijian Yang
+
+## Links
+
+* [PDF: Project Report](/CIS520_Project_Report.pdf)
+* [Notebooks: Dataset Cleaning and Visualization](/Data_Clearning_and_Visualization.ipynb)
+* [Notebooks: Basic Models Experimenet](/Basic_Models_Experimenet.ipynb)
+* [Notebooks: Advanced Models Exploration](/Advanced_Models_Exploration.ipynb)
+* [Dataset: Raw](/Dataset/hotel_bookings.csv) [1]
+* [Dataset: Processed](/Dataset/hotel_bookings_processed.csv)
 
 ## Problem Formulation
 
@@ -25,4 +34,12 @@ Binary classification:
 *   Extra Trees
 *   SVM (vanilla and tuned)
 *   Logistic Regression (baseline)
+
+## References
+
+[1] Nuno Antonio,  Ana de Almeida, and Luis Nunes. Hotelbooking demand datasets. *Data in Brief*, 22:41 – 49, 2019.
+
+## Credits
+
+* Source of the background picture: Four Seasons Hotel at Guangzhou
 
