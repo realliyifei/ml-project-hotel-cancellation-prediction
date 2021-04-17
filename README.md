@@ -8,7 +8,7 @@ UPenn CIS520 Machine Learning class project: utilize different machine learning 
 
 ## Links
 
-* [PDF: Project Report](/CIS520_Project_Report.pdf) ([latex version](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction-Report-Latex))
+* [PDF: Project Report](/CIS520_Project_Report.pdf) -- [latex code](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction-Report-Latex)
 * [Notebooks: Dataset Cleaning and Visualization](/Data_Cleaning_and_Visualization.ipynb)
 * [Notebooks: Basic Models Experiment](/Basic_Models_Experiment.ipynb)
 * [Notebooks: Advanced Models Exploration](/Advanced_Models_Exploration.ipynb)
