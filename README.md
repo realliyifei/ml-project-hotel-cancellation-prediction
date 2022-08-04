@@ -15,7 +15,7 @@ UPenn CIS520 Machine Learning class project: utilize different machine learning 
 * [Dataset: Raw](/Dataset/hotel_bookings.csv) [1]
 * [Dataset: Processed](/Dataset/hotel_bookings_processed.csv)
 
-(The latex code of report see [here](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction-Report-Latex))
+The latex code of report is [here](https://github.com/realliyifei/ML-Project-Hotel-Cancellation-Prediction-Report-Latex); and the related kaggle is [here](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand).
 
 ## Problem Formulation
 
